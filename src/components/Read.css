@@ -1,0 +1,32 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 150%;
+    height: 50px;
+}
+td,th{
+    /* border: 2px solid black; */
+    text-align: center;
+    padding: 8px;
+    background-color:aqua;
+     color:black ;
+}
+
+.btn-red{
+    background-color: red !important;
+
+}
+.icon{
+    font-size: xx-large;
+    color: red !important;
+    cursor: pointer;
+    margin-left: 20px !important;
+}
+.icon1{
+    font-size: xx-large;
+    color: green !important;
+    cursor: pointer;
+    margin-left: 20px !important;
+}
+
+
